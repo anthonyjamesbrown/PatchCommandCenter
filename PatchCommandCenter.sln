@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PatchCommandCenter", "MW Viewer\PatchCommandCenter.vbproj", "{69B4E5F4-B8D3-432E-99F2-2BE95B97DF3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B4E5F4-B8D3-432E-99F2-2BE95B97DF3C}.Debug|x86.ActiveCfg = Debug|x86
+		{69B4E5F4-B8D3-432E-99F2-2BE95B97DF3C}.Debug|x86.Build.0 = Debug|x86
+		{69B4E5F4-B8D3-432E-99F2-2BE95B97DF3C}.Release|x86.ActiveCfg = Release|x86
+		{69B4E5F4-B8D3-432E-99F2-2BE95B97DF3C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D8E3B3-01D2-4CE4-9099-59A6EE44E8F8}
+	EndGlobalSection
+EndGlobal
